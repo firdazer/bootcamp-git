@@ -1,3 +1,4 @@
 #Bootcamp Git Project
-Seso Git 1## Tujuan
-## Belajar git workflowlokal.
+Seso Git 1
+##Senarai arahan
+-git init / git add / git commit
