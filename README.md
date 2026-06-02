@@ -3,3 +3,4 @@ Seso Git 1
 ##Senarai arahan
 -git init / git add / git commit## Tarikh
 ## Diubah dari laptop
+## Diubah dari salinan kedua
